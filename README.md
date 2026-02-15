@@ -422,13 +422,6 @@ void setup() {
 - [ ] Video recording on breach
 - [ ] Professional monitoring service integration
 
-## 🎥 Demo
-
-### Video Demonstration
-[Add YouTube link]
-
-### Installation Guide
-[Add setup video link]
 
 ## ⚠️ Legal Disclaimer
 
@@ -453,7 +446,7 @@ Contributions welcome! Areas to improve:
 **Ajay Kumar Pujari**
 - Email: ajaykumarpujari22@gmail.com
 - GitHub: [ajaykumarpujari12-svg](https://github.com/ajaykumarpujari12-svg)
-- LinkedIn: [Your Profile](https://linkedin.com/in/YOUR_PROFILE)
+
 
 ## 🙏 Acknowledgments
 
